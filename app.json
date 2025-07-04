@@ -14,7 +14,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/9vg76j"
+      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
     }, 
     
     "ALIVE_MSG": {
